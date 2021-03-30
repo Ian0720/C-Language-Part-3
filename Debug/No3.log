@@ -1,0 +1,3 @@
+﻿  SwichCase.c
+C:\Users\Hyun\source\repos\No3\No3\SwichCase.c(27,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  No3.vcxproj -> C:\Users\Hyun\source\repos\No3\Debug\No3.exe
